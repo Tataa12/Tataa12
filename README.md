@@ -3,7 +3,7 @@
 I'm a **Data Analyst and Spreadsheet Specialist** with a passion for turning raw data into actionable insights. I specialize in data management, database archiving, automation, and creating visual reports to support decision-making.
 
 ## 🔧 Skills & Expertise:
-- **Data Analysis:** Excel, Google Sheets, SQL, Power BI, Looker Studio
+- **Data Analysis:** Excel, Google Sheets,   Query, Power BI, Looker Studio
 - **Automation:** Excel Macros, Power Query, Power Pivot
 - **Database Management:** Organizing and archiving large datasets efficiently
 - **Visualization:** Creating insightful dashboards and reports
